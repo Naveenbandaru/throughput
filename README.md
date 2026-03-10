@@ -10,20 +10,20 @@
 - **Impact Factor:** 9.56
 
 ### Abstract
-This paper addresses the problem of excessive CPU utilization in network congestion monitoring within distributed and cloud infrastructures. Modern systems collect telemetry such as bandwidth usage, packet loss, queue occupancy, and delay statistics, yet conventional frameworks analyze these metrics independently at each node. This repetitive data collection and duplicate analysis create high computational overhead, frequent synchronization, and delayed identification of bottlenecks. As the number of nodes grows, telemetry streams expand proportionally, triggering repeated diagnostics and unnecessary reprocessing that further amplify processor load. Consequently, centralized aggregation and monitoring costs reduce throughput, limit scalability, and compromise service stability across distributed environments.
+Throughput degradation in distributed data pipelines becomes more pronounced as systems scale across multiple nodes and operate under dynamic workloads. Traditional monitoring methods analyze metrics, logs, and traces independently, limiting comprehensive visibility into execution behavior. This study investigates a correlated telemetry approach that integrates these signals using shared execution identifiers and temporal alignment. The analysis examines how execution flow, coordination overhead, and Input Output activity influence throughput across different cluster sizes. The proposed perspective supports a structured understanding of scalability behavior and throughput dynamics in distributed data pipelines.
 
 ### Key Contributions
-- **Cross‑Node Telemetry Correlation:**  
-Introduced a monitoring approach that correlates telemetry across nodes, reducing redundant computation and improving CPU efficiency compared to conventional independent node analysis.
+- **Correlated Telemetry Based Analysis:**  
+Introduced an approach that connects metrics, logs, and traces through shared execution identifiers and time alignment to examine throughput behavior in distributed data pipelines.
 
-- **Processor‑Efficient Monitoring Design:**  
-Developed mechanisms that minimize duplicate diagnostics and synchronization overhead, lowering CPU utilization while maintaining visibility into congestion events across distributed systems.
+- **Integrated Observability Framework:**  
+Established a monitoring structure that combines multiple telemetry signals to study execution flow, coordination overhead, and Input Output interactions across pipeline stages.
 
-- **Simulation and Validation:** 
-Implemented a Go‑based simulation to model conventional monitoring overhead, validating how repeated local analysis and central aggregation lead to high processor load.
+- **Distributed Pipeline Experimental Model:** 
+Implemented a pipeline simulation that produces telemetry from different processing stages to investigate execution behavior and throughput dynamics in distributed environments.
 
-- **Scalability Enhancement:**  
-Demonstrated that coordinated telemetry analysis prevents linear growth of CPU consumption with cluster size, enabling scalable monitoring in cloud and distributed infrastructures.
+- **Scalability Evaluation Across Cluster Sizes:**  
+Performed experimental analysis on clusters with 3, 5, 7, 9, and 11 nodes to observe how throughput changes as distributed systems scale.
 
 ### Relevance & Real-World Impact
 - **Reduced CPU Utilization:**

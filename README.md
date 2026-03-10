@@ -52,7 +52,7 @@ Demonstrates the value of integrating telemetry signals to understand distribute
 Correlated Telemetry Driven Throughput Analysis in Distributed Pipelines
 * Naveen Kumar Bandaru
 * Computer Farud and Security 
-* *****ISSN 1873-7056
+* ISSN 1873-7056
 * License \
 This research is shared for a academic and research purposes. For commercial use, please contact the author.\
 **Resources** \

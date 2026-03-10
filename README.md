@@ -40,13 +40,13 @@ Demonstrates the value of integrating telemetry signals to understand distribute
 
 ### Experimental Results (Summary)
 
-  | Nodes | Reference Configuration (ops/sec) | Telemetry Integrated Configuration (ops/sec) | Improvment (%)  |
-  |-------|-----------------------------------| ---------------------------------------------| ----------------|
-  | 3     |  420                              | 510                                          | 21.43           |
-  | 5     |  560                              | 680                                          | 21.43           |
-  | 7     |  610                              | 740                                          | 21.31           |
-  | 9     |  590                              | 720                                          | 22.03           |
-  | 11    |  540                              | 690                                          | 27.78           |
+  | Nodes | Reference Configuration throughput (ops/sec) | Telemetry Integrated Configuration throughput (ops/sec) | Improvment (%)  |
+  |-------|----------------------------------------------| --------------------------------------------------------| ----------------|
+  | 3     |  420                                         | 510                                                     | 21.43           |
+  | 5     |  560                                         | 680                                                     | 21.43           |
+  | 7     |  610                                         | 740                                                     | 21.31           |
+  | 9     |  590                                         | 720                                                     | 22.03           |
+  | 11    |  540                                         | 690                                                     | 27.78           |
 
 ### Citation
 Correlated Telemetry Driven Throughput Analysis in Distributed Pipelines

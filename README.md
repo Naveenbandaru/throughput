@@ -58,7 +58,7 @@ This research is shared for a academic and research purposes. For commercial use
 **Resources** \
 [**************https://www.ijlrp.com/](https://www.ijirmps.org/research-paper.php?id=232943) \
 **Author Contact** \
-**LinkedIn**: linkedin.com/in/arunkumar-sambandam-9b769b | **Email**: naveen.bandaru@gmail.com
+**LinkedIn**: linkedin.com/in/naveen-bandaru | **Email**: naveen.bandaru@gmail.com
 
 
 

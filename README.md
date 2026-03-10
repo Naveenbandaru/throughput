@@ -2,7 +2,7 @@
 **Correlated Telemetry Driven Throughput Analysis in Distributed Pipelines**
 
 ### Paper Information
-- **Author(s):** Arunkumar Sambandam
+- **Author(s):** Naveen Kumar Bandaru
 - **Published In:** Computer Farud and Security
 - **Publication Date:** May, 2022
 - **ISSN:** 1873-7056
@@ -40,17 +40,17 @@ Demonstrates the value of integrating telemetry signals to understand distribute
 
 ### Experimental Results (Summary)
 
-  | Nodes | Local Telemetry CPU | Telemetry corelation CPU | Improvment (%)  |
-  |-------|---------------------| -------------------------| ----------------|
-  | 3     |  72                 | 54                       | 25.0           |
-  | 5     |  70                 | 50                       | 28.6           |
-  | 7     |  68                 | 47                       | 30.9           |
-  | 9     |  67                 | 45                       | 32.8           |
-  | 11    |  66                 | 43                       | 34.8           |
+  | Nodes | Reference Configuration (ops/sec) | Telemetry Integrated Configuration (ops/sec) | Improvment (%)  |
+  |-------|-----------------------------------| ---------------------------------------------| ----------------|
+  | 3     |  420                              | 510                                          | 21.43           |
+  | 5     |  560                              | 680                                          | 21.43           |
+  | 7     |  610                              | 740                                          | 21.31           |
+  | 9     |  590                              | 720                                          | 22.03           |
+  | 11    |  540                              | 690                                          | 27.78           |
 
 ### Citation
-Cross Node Telemetry for CPU Efficient Congestion Monitoring
-* Arunkumar Sambandam
+Correlated Telemetry Driven Throughput Analysis in Distributed Pipelines
+* Naveen Kumar Bandaru
 * International Journal of Leading Research Publication 
 * *****ISSN E-ISSN: 2582-8010
 * License \

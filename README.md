@@ -56,7 +56,7 @@ Correlated Telemetry Driven Throughput Analysis in Distributed Pipelines
 * License \
 This research is shared for a academic and research purposes. For commercial use, please contact the author.\
 **Resources** \
-[**************https://www.ijlrp.com/](https://www.ijirmps.org/research-paper.php?id=232943) \
+  https://www.sciencedirect.com/journal/computer-fraud-and-security \
 **Author Contact** \
 **LinkedIn**: linkedin.com/in/naveen-bandaru | **Email**: naveen.bandaru@gmail.com
 

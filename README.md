@@ -4,8 +4,8 @@
 ### Paper Information
 - **Author(s):** Arunkumar Sambandam
 - **Published In:** Computer Farud and Security
-- **Publication Date:** Jan 6, 2023
-- **ISSN:** E-ISSN: 2582-8010
+- **Publication Date:** May, 2022
+- **ISSN:** 1873-7056
 - **DOI:**
 - **Impact Factor:** 9.56
 

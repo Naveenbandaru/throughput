@@ -25,22 +25,19 @@ Implemented a pipeline simulation that produces telemetry from different process
 - **Scalability Evaluation Across Cluster Sizes:**  
 Performed experimental analysis on clusters with 3, 5, 7, 9, and 11 nodes to observe how throughput changes as distributed systems scale.
 
-### Relevance & Real-World Impact
-- **Reduced CPU Utilization:**
-Achieved significant processor efficiency by eliminating redundant monitoring tasks, freeing resources for application workloads and improving responsiveness.
+### Practical Significance and Impact
+- **Clear Visibility into Throughput Behavior:**
+Correlated telemetry enables systematic observation of how execution flow and resource interactions influence throughput in distributed pipelines.
 
-- **Improved Latency and Throughput:**  
-Lower monitoring overhead directly reduces latency and increases throughput, enhancing service stability in distributed environments.
+- **Improved Identification of Scalability Constraints:**  
+The analysis helps reveal coordination overhead and shared resource contention that affect system performance as cluster size increases.
 
-- **Scalable Cloud Deployment:**  
-Framework supports large clusters without proportional CPU growth, addressing scalability challenges in modern cloud infrastructures.
+- **Support for Data Processing Platforms:**  
+The framework provides insights useful for improving performance in stream processing systems, analytics platforms, and large scale data pipelines.
 
-- **Operational Cost and Energy Savings:**  
-Efficient monitoring reduces unnecessary computation, lowering energy consumption and operational costs in data centers.
+- **Foundation for Observability Driven Performance Analysis:**  
+Demonstrates the value of integrating telemetry signals to understand distributed execution behavior rather than relying on isolated monitoring approaches.
 
-- **Practical Applicability:**
-Provides a reference model for industry and research, offering a processor‑efficient monitoring design suitable for production systems and academic exploration.
- 
 ### Experimental Results (Summary)
 
   | Nodes | Local Telemetry CPU | Telemetry corelation CPU | Improvment (%)  |

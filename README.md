@@ -5,7 +5,7 @@
 - **Author(s):** Naveen Kumar Bandaru
 - **Published In:** Computer Farud and Security
 - **Publication Date:** May, 2022
-- **ISSN:** 1873-7056
+- **ISSN:** 1361-3723
 - **DOI:**
 - **Impact Factor:** 9.56
 
@@ -52,7 +52,7 @@ Demonstrates the value of integrating telemetry signals to understand distribute
 Correlated Telemetry Driven Throughput Analysis in Distributed Pipelines
 * Naveen Kumar Bandaru
 * Computer Farud and Security 
-* ISSN 1873-7056
+* ISSN 1361-3723
 * License \
 This research is shared for a academic and research purposes. For commercial use, please contact the author.\
 **Resources** \

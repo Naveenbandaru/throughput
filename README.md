@@ -40,7 +40,7 @@ Demonstrates the value of integrating telemetry signals to understand distribute
 
 ### Experimental Results (Summary)
 
-  | Nodes | Reference Configuration throughput (ops/sec) | Telemetry Integrated Configuration throughput (ops/sec) | Improvment (%)  |
+  | Nodes | Reference Configuration throughput (ops/sec) | Telemetry Integrated Configuration throughput (ops/sec) | Improvement (%)  |
   |-------|----------------------------------------------| --------------------------------------------------------| ----------------|
   | 3     |  420                                         | 510                                                     | 21.43           |
   | 5     |  560                                         | 680                                                     | 21.43           |
